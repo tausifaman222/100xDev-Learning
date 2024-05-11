@@ -1,0 +1,29 @@
+{
+  "name": "@tausif222/medium-common_module",
+  "version": "1.0.1",
+  "description": "This is common module for Medium blog clone with zod validations",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "zod",
+    "medium",
+    "blog",
+    "clone",
+    "validator",
+    "validation",
+    "schema",
+    "typescript",
+    "ts",
+    "node",
+    "express",
+    "harkirat_cohort",
+    "hkirat"
+  ],
+  "author": "tausif@FoodieCoder_Signzy",
+  "license": "ISC",
+  "dependencies": {
+    "zod": "^3.23.8"
+  }
+}
